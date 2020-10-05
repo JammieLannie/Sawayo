@@ -1,17 +1,20 @@
 const fs = require('fs')
 
-module.exports = {
-    name: 'help',
-    description: 'List all available commands.',
-    execute(message) {
+module.exports.run = async (client, message, args) => {
         let str = '';
         const commandFiles = fs.readdirSync('./commands').filter(file => file.endsWith('.js'));
 
         for (const file of commandFiles) {
             const command = require(`./${file}`);
-            str += `Name: ${command.name}, Description: ${command.description} \n`;
+            str += `Name: ${command.config.name}, Description: ${command.config.description} \n`;
         }
 
         message.channel.send(str);
-    },
-};
+    }
+
+    module.exports.config = {
+        name: "help",
+        aliases: ["h"]
+    }
+
+    

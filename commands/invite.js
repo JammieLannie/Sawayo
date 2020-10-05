@@ -14,5 +14,7 @@ module.exports.run = async (client, message, args) => {
 
 module.exports.config = {
     name: "invite",
-    aliases: ["join"]
+    aliases: ["join"],
+    description: 'invite Sawayo.',
+    Group: 'Utilities'
 }
