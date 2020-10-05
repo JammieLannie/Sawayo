@@ -1,4 +1,7 @@
 # Sawayo
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/975632fdde704e4d8dba5a2be84a02aa)](https://app.codacy.com/gh/JammieLannie/Sawayo?utm_source=github.com&utm_medium=referral&utm_content=JammieLannie/Sawayo&utm_campaign=Badge_Grade)
+
 Sawayo, a discord bot for osu!  
 This is a repository of Sawayo bot.
 
