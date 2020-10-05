@@ -4,8 +4,8 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/jammielannie/sawayo/badge)](https://www.codefactor.io/repository/github/jammielannie/sawayo)
 
 Sawayo, a discord bot for osu!  
-This is a repository of Sawayo bot.
-The bot is still in development, will need more time for this project.
+This is a repository of Sawayo bot.    
+This project still in development, will need more time for it
 
 
 
@@ -109,7 +109,7 @@ Admin-commands
 Database
 Admin related stuff for Discord Server Moderations.
 ```
-Feel free to contribute to this project.
+Feel free to contribute to this project.   
 
 ## Donate
 JammieLannie: https://paypal.me/jammielannie
