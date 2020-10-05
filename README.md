@@ -6,7 +6,7 @@
 Sawayo, a discord bot for osu!  
 This is a repository of Sawayo bot.
 
-![CodeFactor](https://www.codefactor.io/repository/github/jammielannie/sawayo/badge)
+
 
 
 ## Set-up & Preparation
