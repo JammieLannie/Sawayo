@@ -5,7 +5,7 @@ module.exports.run = async (client, message, args) => {
     if (args[0]) {
     var member= message.mentions.members.first();  
     if (!member) {
-        return message.reply('Please mention a user!');
+        return message.reply('Please mention a user!'); // No member mentioned
     }
     let embed = new Discord.MessageEmbed()
     .addField(`**${member.user.tag}**`, `[URL](${member.user.avatarURL({size: 1024})})`)
