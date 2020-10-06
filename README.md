@@ -1,6 +1,27 @@
 # Sawayo
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/975632fdde704e4d8dba5a2be84a02aa)](https://app.codacy.com/gh/JammieLannie/Sawayo?utm_source=github.com&utm_medium=referral&utm_content=JammieLannie/Sawayo&utm_campaign=Badge_Grade)
+[![CodeFactor](https://www.codefactor.io/repository/github/jammielannie/sawayo/badge)](https://www.codefactor.io/repository/github/jammielannie/sawayo)
+
+
 Sawayo, a discord bot for osu!  
 This is a repository of Sawayo bot.
+The bot still in development, will need for time for the project
+
+## Introduction
+This bot is built on [`discord.js v12`](https://discord.js.org/#/docs/main/v12/general/welcome), commands like check osu!osu info or more.
+
+## Index
+**Setup**
+- [Set-up & Preparation](https://github.com/Naozumi520/Sawayo#set-up--preparation)
+
+**Project-info**
+- [Bot-commands](https://github.com/Naozumi520/Sawayo#commands)
+- [Using-api](https://github.com/Naozumi520/Sawayo#using-api)
+- [Contributors](https://github.com/Naozumi520/Sawayo#contributors)
+- [Our discord](https://github.com/Naozumi520/Sawayo#our-discord)
+- [To-do](https://github.com/Naozumi520/Sawayo#things-need-to-do)
+- [Donate](https://github.com/Naozumi520/Sawayo#donate)
 
 ## Set-up & Preparation
 Clone the git project:
@@ -25,14 +46,7 @@ You will also need to configure the emoji ID in emoji_config.json.
              { "type": "LISTENING", "text": "osu!memories 2" },
              { "type": "PLAYING", "text": "with circles" }
              ],
-              "activities_Interval" : "6000",
-
-    "reddit": [
-        { "username": "reddit_username" },
-        { "password": "reddit password" },
-        { "app_id": "reddit api app id" },
-        { "api_secret": "reddit api secret" }
-    ]
+              "activities_Interval" : "6000"
 	}
 ## Sample emoji_config.json
     {
@@ -69,18 +83,24 @@ To start the bot:
 ```bash
 $ node index
 ```
+
+## Using api
+- [imageapi.js](https://www.npmjs.com/package/imageapi.js) (^1.0.17)
+- [node-osu](https://www.npmjs.com/package/node-osu) (^2.2.0)
+- [urban](https://www.npmjs.com/package/urban) (^1.0.17)
+
 ## Commands  
 User-profile:
 ```
- -std     --s!std <username>
- -taiko     --s!taiko <username>
- -ctb     --s!ctb <username>
- -mania     --s!mania <username>
+ - std     --s!std <username>
+ - taiko     --s!taiko <username>
+ - ctb     --s!ctb <username>
+ - mania     --s!mania <username>
 ```
 Miscellaneous:
 ```
--urban     --s!urban <words>
--google     --s!google <things> <- Not work, will fix it soon
+- urban     --s!urban <words>
+- google     --s!google <things> <- Not work, will fix it soon
 ```
 Admin-commands
 ```
@@ -95,6 +115,10 @@ Admin-commands
 [![](https://github.com/Naozumi520.png?size=50)  Naozumi520](https://github.com/Naozumi520)
 
 ![picture](files/images/Sawayo_banner.png)
+
+## Our discord
+- [Naozumi#9929](https://discord.com/users/752146392553881660)
+- [dragon.xml#1234](https://discord.com/users/468069720105680896)
 
 ## Things need to do
 ```
