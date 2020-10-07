@@ -6,7 +6,7 @@
 
 Sawayo, a discord bot for osu!  
 This is a repository of Sawayo bot.   
-The bot still in development, will need more time for the project
+The bot is still in development, will need more time for the project
 
 ## Introduction
 This bot is built on [`discord.js v12`](https://discord.js.org/#/docs/main/v12/general/welcome), commands like check osu!osu info or more.
