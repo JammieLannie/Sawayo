@@ -5,7 +5,7 @@
 
 
 Sawayo, a discord bot for osu!  
-This is a repository of Sawayo bot.
+This is a repository of Sawayo bot.   
 The bot still in development, will need for time for the project
 
 ## Introduction
