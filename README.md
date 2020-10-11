@@ -113,17 +113,19 @@ Admin-commands
 ## Contributors
 [![](https://github.com/JammieLannie.png?size=50)  JammieLannie](https://github.com/JammieLannie)  
 [![](https://github.com/Naozumi520.png?size=50)  Naozumi520](https://github.com/Naozumi520)
+[![](https://github.com/ItzTheLT.png?size=50)  ItzTheLT](https://github.com/ItzTheLT)
 
 ![picture](files/images/Sawayo_banner.png)
 
 ## Our discord
 - [Naozumi#9929](https://discord.com/users/752146392553881660)
 - [dragon.xml#1234](https://discord.com/users/468069720105680896)
+- [TheLT#0157](http://discord.com/users/388345263191752704)
 
 ## Things need to do
 ```
-Database
 Admin related stuff for Discord Server Moderations.
+More Commands.
 ```
 Feel free to contribute to this project.   
 
