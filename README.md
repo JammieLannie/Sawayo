@@ -112,7 +112,7 @@ Admin-commands
 
 ## Contributors
 [![](https://github.com/JammieLannie.png?size=50)  JammieLannie](https://github.com/JammieLannie)  
-[![](https://github.com/Naozumi520.png?size=50)  Naozumi520](https://github.com/Naozumi520)
+[![](https://github.com/Naozumi520.png?size=50)  Naozumi520](https://github.com/Naozumi520)   
 [![](https://github.com/ItzTheLT.png?size=50)  ItzTheLT](https://github.com/ItzTheLT)
 
 ![picture](files/images/Sawayo_banner.png)
