@@ -1,7 +1,7 @@
 {
-    "token" : "NzIwODY1MjE4NjQwNzQwNDAy.XuMMDQ.K000dH6R66QvQ26TEIKvANax1Zo",
-    "prefix" : "r!",
-    "apikey": "e70d8b5a3743ad70cd128ee132dd5fe06ba5ccce",
+    "token" : "Your discord bot token",
+    "prefix" : "s!",
+    "apikey": "Your osu! api key ",
 
     "activities": [
         { "type": "PLAYING", "text": "osu!" },
