@@ -1,4 +1,20 @@
 {
-    "token" : "",
-    "prefix" : "s!"
+    "token" : "NzIwODY1MjE4NjQwNzQwNDAy.XuMMDQ.K000dH6R66QvQ26TEIKvANax1Zo",
+    "prefix" : "r!",
+    "apikey": "e70d8b5a3743ad70cd128ee132dd5fe06ba5ccce",
+
+    "activities": [
+        { "type": "PLAYING", "text": "osu!" },
+        { "type": "LISTENING", "text": "osu!memories 2" },
+        { "type": "PLAYING", "text": "with circles" }
+        ],
+        "activities_Interval" : "6000",
+
+    "database": {
+        "host": "localhost",
+        "username": "root",
+        "password": "",
+        "database": "sawayo",
+        "connectionLimit": 50
+    }
 }
