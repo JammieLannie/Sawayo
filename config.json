@@ -1,4 +1,20 @@
 {
-    "token" : "",
-    "prefix" : "s!"
+    "token" : "Your discord bot token",
+    "prefix" : "s!",
+    "apikey": "Your osu! api key ",
+
+    "activities": [
+        { "type": "PLAYING", "text": "osu!" },
+        { "type": "LISTENING", "text": "osu!memories 2" },
+        { "type": "PLAYING", "text": "with circles" }
+        ],
+        "activities_Interval" : "6000",
+
+    "database": {
+        "host": "localhost",
+        "username": "root",
+        "password": "",
+        "database": "sawayo",
+        "connectionLimit": 50
+    }
 }
