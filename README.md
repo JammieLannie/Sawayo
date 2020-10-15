@@ -130,4 +130,4 @@ More Commands.
 Feel free to contribute to this project.   
 
 ## Donate
-JammieLannie: https://paypal.me/jammielannie
+JammieLannie: https://paypal.me/jammielannie or https://ko-fi.com/jammielannie
